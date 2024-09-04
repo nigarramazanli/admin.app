@@ -1,0 +1,258 @@
+{
+  "admins": [
+    {
+      "id": "4d88",
+      "category": "Student",
+      "name": "Ali",
+      "password": "123",
+      "class": "11b"
+    },
+    {
+      "id": "12d0",
+      "category": "Student",
+      "name": "Ali",
+      "password": "12345",
+      "class": "11b"
+    },
+    {
+      "id": "de42",
+      "category": "Teacher",
+      "name": "Nigar",
+      "password": "",
+      "class": null
+    },
+    {
+      "id": "53f4",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345678910",
+      "class": null
+    },
+    {
+      "id": "f7a9",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345678910",
+      "class": null
+    },
+    {
+      "id": "adb9",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345678910",
+      "class": null
+    },
+    {
+      "id": "8108",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345678910",
+      "class": null
+    },
+    {
+      "id": "640d",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345678910",
+      "class": null
+    },
+    {
+      "id": "0473",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13"
+    },
+    {
+      "id": "f2c9",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13"
+    },
+    {
+      "id": "bdc7",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13"
+    },
+    {
+      "id": "b7f3",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13"
+    },
+    {
+      "id": "f0d1",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13"
+    },
+    {
+      "id": "2b9a",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13A"
+    },
+    {
+      "id": "f12c",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "12345",
+      "class": "13A"
+    },
+    {
+      "id": "ff84",
+      "category": "Teacher",
+      "name": "Nigar",
+      "password": "5678910",
+      "class": null
+    },
+    {
+      "id": "5feb",
+      "category": "Teacher",
+      "name": "Nigar",
+      "password": "5678910",
+      "class": null
+    },
+    {
+      "id": "bfa8",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar",
+      "class": null
+    },
+    {
+      "id": "7a73",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar",
+      "class": null
+    },
+    {
+      "id": "e078",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "nigar12345",
+      "class": null
+    },
+    {
+      "id": "1513",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "12345",
+      "class": null
+    },
+    {
+      "id": "729a",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "nigartetildedir",
+      "class": "13"
+    },
+    {
+      "id": "8942",
+      "category": "Teacher",
+      "name": "Gunes",
+      "password": "12345",
+      "class": null
+    },
+    {
+      "id": "ac02",
+      "category": "Student",
+      "name": "Gunes",
+      "password": "123",
+      "class": "11"
+    },
+    {
+      "id": "95df",
+      "category": "Student",
+      "name": "Gunes",
+      "password": "123",
+      "class": "11"
+    },
+    {
+      "id": "007e",
+      "category": "Student",
+      "name": "Gunes1",
+      "password": "12345",
+      "class": "11a"
+    },
+    {
+      "id": "5294",
+      "category": "Teacher",
+      "name": "Nigar",
+      "password": "123",
+      "class": null
+    },
+    {
+      "id": "f4eb",
+      "category": "Student",
+      "name": "Gunes",
+      "password": "123",
+      "class": "11"
+    },
+    {
+      "id": "a49e",
+      "category": "Admin",
+      "name": "Gunes",
+      "password": "123",
+      "class": null
+    },
+    {
+      "id": "7e4a",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "123",
+      "class": "11"
+    },
+    {
+      "id": "1abf",
+      "category": "Admin",
+      "name": "Nigar",
+      "password": "123",
+      "class": null
+    },
+    {
+      "id": "0959",
+      "category": "Admin",
+      "name": "Akif",
+      "password": "akif",
+      "class": null
+    },
+    {
+      "id": "648e",
+      "category": "Admin",
+      "name": "Gunes",
+      "password": "1234",
+      "class": null
+    },
+    {
+      "id": "bf2b",
+      "category": "Student",
+      "name": "Nigar",
+      "password": "123",
+      "class": "13A"
+    },
+    {
+      "id": "9834",
+      "category": "Admin",
+      "name": "Emin",
+      "password": "1234",
+      "class": null
+    },
+    {
+      "id": "24a5",
+      "category": "Admin",
+      "name": "qqqq",
+      "password": "12",
+      "class": null
+    }
+  ],
+  "students": [],
+  "teachers": []
+}
